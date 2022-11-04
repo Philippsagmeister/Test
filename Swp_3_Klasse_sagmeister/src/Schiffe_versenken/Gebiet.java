@@ -10,6 +10,7 @@ public class Gebiet
    {
       feldWurdeBeschossen=false;
       schiffIstAufFeld=false;
+      //Kommentar ignorieren
    }
 
    // Methoden
