@@ -1,7 +1,7 @@
 package Schiffe_versenken;
 public class Gebiet
 {
-   // Eigenschaften
+   // Eigenschaften1
    private boolean feldWurdeBeschossen;
    private boolean schiffIstAufFeld;
 
