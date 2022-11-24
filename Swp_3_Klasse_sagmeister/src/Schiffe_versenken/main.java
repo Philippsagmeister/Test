@@ -4,8 +4,8 @@ public class main {
 
 	public static void main(String[] args) {
 
-		Playground.baseField();
-		Playground.showField();
+		
+		Playground.SpielFeld_Erzeugung();
 	}
 
 }
