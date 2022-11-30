@@ -12,7 +12,7 @@ public class Article {
 	public double getPrice() {
 		return price;
 	}
-
+	
 	public String toString() {
 		return getClass().getName() + "  -  " + "Artikelnummer: " + articleNumber + "  Preis: " + getPrice()  + " (Euro) ";
 	}
