@@ -4,9 +4,6 @@ public class Schiffe {
 		public static boolean[][] PlatzierungSchiffe = new boolean[10][10];
 		public static int[][] ueberpruefen = new int[10][10];
 		
-		
-		
-
 		private static boolean Felderueberpruefen(int x, int y, int Richtung, int FelderAnzahl, int welcheRichtung) {
 			boolean[][] Test = new boolean[10][10];
 			boolean Ergebnis = true;
