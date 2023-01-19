@@ -11,7 +11,7 @@ public class Playground {
 			{
 				for (int j = 0; j < angriff.length ; j++) {
 					
-					System.out.print(Schiffe.ueberpruefen[i][j] + " |");
+					System.out.print(Schiffe.ueberpruefen[i][j] + " | ");
 				}
 				System.out.println();
 			}
