@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        App.cleanSource(new File(
+        cleanSource(new File(
         		"C:\\Users\\Acer\\Documents\\HTL\\Dokumente\\Programmieren SWP\\Test\\Swp_3_Klasse_sagmeister\\src\\StreamsplusFiles"), "C:\\Users\\Acer\\Music\\Source\\");
     }
 
