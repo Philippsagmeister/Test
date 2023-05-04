@@ -42,11 +42,11 @@ public class Client {
 		String rückgabe;
 		if (sendenEmpfangen.equals("erstelle")) {
 			System.out.println("Dateinamen eingeben:");
-			String dataname = s.nextLine();
+			String dateiname = s.nextLine();
 			System.out.println("Inhalt eingeben:");
 			String text = s.nextLine();
 			s.close();
-			rückgabe = sendenEmpfangen + "#" + dataname + ".txt" + "#" + text;
+			rückgabe = sendenEmpfangen + "#" + dateiname + ".txt" + "#" + text;
 		} else if (sendenEmpfangen.equals("zeige")) {
 			s.close();
 			rückgabe = sendenEmpfangen;
