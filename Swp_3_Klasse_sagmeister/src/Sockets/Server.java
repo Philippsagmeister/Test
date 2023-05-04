@@ -44,7 +44,4 @@ public class Server {
 		}
 	}
 
-	public static void createFile(String str) {
-
-	}
 }
